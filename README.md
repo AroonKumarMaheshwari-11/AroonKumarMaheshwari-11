@@ -1,4 +1,4 @@
-# Hi there, I'm Aroon! 👋
+# Hi there, I'm Aroon Kumar!👋
 
 🎓 IT Student (1st Year) — Pakistan
 💻 Skills: C++ | Python (Learning) | HTML/CSS
